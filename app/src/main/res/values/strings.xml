@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cat Facts</string>
+    <string name="name_surname">%1$s %2$s</string>
+    <string name="fact_votes">Votes : %1$s</string>
+    <string name="app_logo">App Logo</string>
+    <string name="item_image">Item Image</string>
+</resources>
